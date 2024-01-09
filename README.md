@@ -1,2 +1,1 @@
-# journal
-journal
+- [2024-01-08 Govc hot add](2024/2024-01-08-govc-hot-add)

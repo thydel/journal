@@ -1,0 +1,1 @@
+govc-hot-add.md
